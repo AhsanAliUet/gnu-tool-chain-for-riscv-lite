@@ -1,4 +1,4 @@
-# Gnu tool chain for RISC-V lite
+# GNU tool chain for RISC-V lite
 We will use this tool chain to convert our C language codes to machine codes and assembly codes to machine codes for our own made RISC-V processor (Both single cycle and Pipelined).)
 
 # How to use this project?
